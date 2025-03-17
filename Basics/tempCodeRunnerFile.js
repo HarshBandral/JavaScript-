@@ -1,1 +1,4 @@
-console.log((Math.random() *100).toFixed(3));
+
+var result = function sum(a,b){
+    console.log(a + b);
+};
